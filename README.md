@@ -43,10 +43,6 @@
 
 ### PROGRAM
 ```
-Developing AI Agent with PEAS Description
-Developed by: Sri Vignesh G
-RegisterNumber: 212223040204
-
 
 import random
 class VacuumCleanerAgent:
